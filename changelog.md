@@ -1,5 +1,11 @@
 # PHPMailer Change Log
 
+## WIP
+* Don't attempt opportunistic TLS when connecting to localhost
+* Update example to show a better way of using an SMTP subclass
+* Avoid some more deprecation warnings
+* Update Danish and Polish translations
+
 ## Version 6.8.1 (August 29th, 2023)
 * Don't reflect malformed DSNs in error messages to avert any risk of XSS
 * Improve Simplified Chinese, Sinhalese, and Norwegian translations
